@@ -32,7 +32,7 @@ Config.MaxAmount = 5 -- Value must be Lower than MinAmount
 
 Config.Items = {
 	--Item Spawn Name - Amount
-	{item = "water_bottle", amount = 3},
+	{item = "water_bottle", amount = 2},
 	{item = "coffee", amount = 5},
 }
 
