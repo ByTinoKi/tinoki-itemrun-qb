@@ -1,4 +1,6 @@
-# tinoki-itemrun-qb
-Item run by TinoKi for QBCore
+Item run by TinoKi
 
-Preview -> https://youtu.be/aTQY_ITUJVc
+Framework = QBCore
+Dependencies = /
+Preview = https://youtu.be/aTQY_ITUJVc
+Discord = https://discord.gg/fTC3Utg4vF
